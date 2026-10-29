@@ -1,4 +1,4 @@
-\# TrustClean
+** TrustClean**
 
 
 
@@ -8,9 +8,7 @@ LLM-assisted data cleaning for messy Hindi, Hinglish, and English datasets, with
 
 \## Problem
 
-Real-world records often mix Devanagari Hindi, Hinglish (Hindi in English letters), and English. The same name or place can appear in many spellings,
-
-which breaks duplicate detection and analysis. Existing cleaning tools mostly assume clean, English-only data.
+Real-world records often mix Devanagari Hindi, Hinglish (Hindi in English letters), and English. The same name or place can appear in many spellings, which breaks duplicate detection and analysis. Existing cleaning tools mostly assume clean, English-only data.
 
 
 
