@@ -2,21 +2,15 @@
 
 
 
-LLM-assisted data cleaning for messy Hindi, Hinglish, and English datasets,
-
-with a verification step so every fix can be trusted.
+LLM-assisted data cleaning for messy Hindi, Hinglish, and English datasets, with a verification step so every fix can be trusted.
 
 
 
 \## Problem
 
-Real-world records often mix Devanagari Hindi, Hinglish (Hindi in English
+Real-world records often mix Devanagari Hindi, Hinglish (Hindi in English letters), and English. The same name or place can appear in many spellings,
 
-letters), and English. The same name or place can appear in many spellings,
-
-which breaks duplicate detection and analysis. Existing cleaning tools
-
-mostly assume clean, English-only data.
+which breaks duplicate detection and analysis. Existing cleaning tools mostly assume clean, English-only data.
 
 
 
@@ -51,8 +45,6 @@ mostly assume clean, English-only data.
 \## Status
 
 Phase 1: literature review and dataset collection (Months 1-2)
-
-
 
 \## License
 
